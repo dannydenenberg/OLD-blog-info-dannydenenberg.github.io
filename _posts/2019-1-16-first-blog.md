@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: default
 title:  "Welcome to Jekyll!"
+description: "This is my first post. I hope it works!"
 ---
 
 # Welcome
