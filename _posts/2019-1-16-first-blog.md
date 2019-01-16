@@ -1,11 +1,9 @@
 ---
 layout: default
-title:  "Welcome to Jekyll!"
-description: "This is my first post. I hope it works!"
+title:  "Passover 2018"
+description: "A really undetailed description of the Denenberg 2018 passover seder!"
 ---
 
-# Welcome
-
-**Hello world**, this is my first Jekyll blog post.
-
-I hope you like it!
+# The Seder
+Here is a picture from the seder:
+![passover table](/_assets/IMG_0726.jpg/)
