@@ -6,4 +6,4 @@ description: "A really undetailed description of the Denenberg 2018 passover sed
 
 # The Seder
 Here is a picture from the seder:
-![passover table](/assets/IMG_0726.jpg/)
+![passover table](/assets/pass01.jpg/)
