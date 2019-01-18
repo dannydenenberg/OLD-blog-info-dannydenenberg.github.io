@@ -10,9 +10,9 @@ Because we specified the title as 'About', the page.html in the layouts will por
   Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
 </p>
 
-![Picture of Me](/assets/dannypic.jpg)
+<img src="assets/dannypic.jpg" style="transform:rotate(90deg);">
 
-I am an actor, singer, and computer geek from Omaha, Nebraska. I enjoy performing musicals and plays in facilities such as the Omaha Community Playhouse, the Rose Blumpkin Theater, the JCC, and the Chanticleer Theater. I attend school at Omaha Central High and am a sophomore. I love experimenting with computers, particularly in the area of machine learning as it combines the mathematical and binary worlds. I am Jewish and have 4 other siblings.
+I am an actor, singer, and computer geek from **Omaha, Nebraska**. I enjoy performing musicals and plays in facilities such as the Omaha Community Playhouse, the Rose Blumpkin Theater, the JCC, and the Chanticleer Theater. I attend school at Omaha Central High and am a sophomore. I love experimenting with computers, particularly in the area of machine learning as it combines the mathematical and binary worlds. I am Jewish and have 4 other siblings.
 
 
 Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
