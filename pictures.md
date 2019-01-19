@@ -19,3 +19,11 @@ A performance from *Interlochen*, an arts camp.
 
 From *A Christmas Story* at the Rose Theater. I played **Ralphie**
 ![](/assets/pictures/ralphie.jpg)
+
+![](/assets/pictures/ralphie2.jpg)
+
+
+From *Newsies* also at the Rose Theater. I played a Newsie.
+![](/assets/pictures/newsies.jpg)
+
+![](/assets/pictures/newsies2.jpg)
