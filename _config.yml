@@ -1,38 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
 # Permalinks
-permalink:           pretty
+permalink:        pretty
+relative_permalinks: true
 
 # Setup
-title:               Danny Denenberg
-tagline:             A Jew from Nebraska 🏈
-url:                 http://denenberg.us
-paginate:            1
-baseurl:             ""
+title:            Hyde
+tagline:          'A Jekyll theme'
+description:      'A brazen two-column <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that pairs a prominent sidebar with uncomplicated content. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hyde.getpoole.com
+baseurl:          /
 
-# Assets
-#
-# We specify the directory for Jekyll so we can use @imports.
-sass:
-  sass_dir:          _sass
-  style:            :compressed
-
-# About/contact
 author:
-  name:              Danny Denenberg
-  url:               https://twitter.com/DenenbergDanny
-  email:             dannydenenberg@gmail.com
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
 
 # Custom vars
-version:             2.0.0
-github:              
-  repo:              https://github.com/dannydenenberg/dannydenenberg.github.io
+version:          2.1.0
 
-
-# specifies what will be shown and the links assiciated with them on the NAVIGATION BAR
-pages_list:       
-  About: '/about'
-  Archive: '/archive'
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+github:
+  repo:           https://github.com/poole/hyde

@@ -2,21 +2,29 @@
 layout: page
 title: About
 ---
-<!-- REMEMBER:
-Because we specified the title as 'About', the page.html in the layouts will portray the title at the top of the page as an h1 tag.
- -->
 
-![Picture of Me](/assets/pictures/dannypic.JPG)
+<p class="message">
+  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+</p>
 
-I am an actor, singer, and computer geek from **Omaha, Nebraska**. I enjoy performing musicals and plays in facilities such as the Omaha Community Playhouse, the Rose Blumpkin Theater, the JCC, and the Chanticleer Theater. I attend school at Omaha Central High and am a sophomore. I love experimenting with computers, particularly in the area of machine learning as it combines the mathematical and binary worlds. I am Jewish and have 4 other siblings.
+In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
 
+There are currently two themes built on Poole:
 
-<!-- Just for keepsakes
-Here is an interesting photo taken of some of my family for an experiment my mother's friend was doing with old fashion photography.
-![Old Fashion](/assets/pictures/OTHER-FAMILY-PICTURE.jpg)
--->
+* [Hyde](http://hyde.getpoole.com)
+* [Lanyon](http://lanyon.getpoole.com)
 
+Learn more and contribute on [GitHub](https://github.com/poole).
 
-Have questions or suggestions? Feel free to email me at **dannydenenberg@gmail.com** or [ask me on Twitter](https://twitter.com/denenbergdanny).
+## Setup
+
+Some fun facts about the setup of this project include:
+
+* Built for [Jekyll](http://jekyllrb.com)
+* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
+* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
+* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+
+Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
 
 Thanks for reading!
