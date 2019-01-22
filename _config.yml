@@ -1,25 +1,38 @@
-# Dependencies
-highlighter:      rouge
-
 # Permalinks
-permalink:        pretty
-relative_permalinks: false
+permalink:           pretty
 
 # Setup
-title:            Danny Denenberg
-tagline:          A Jew from Nebraska 🏈
-description:      A Jew from Nebraska 🏈
-url:              http://denenberg.us
-baseurl:          /
+title:               Danny Denenberg
+tagline:             A Jew from Nebraska 🏈
+url:                 http://denenberg.us
+paginate:            1
+baseurl:             ""
 
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
 author:
-  name:           Danny Denenberg
-  url:            https://twitter.com/denenbergdanny
-
-paginate:         5
+  name:              Danny Denenberg
+  url:               https://twitter.com/DenenbergDanny
+  email:             dannydenenberg@gmail.com
 
 # Custom vars
-version:          2.1.0
-
+version:             2.0.0
 github:
-  repo:           https://github.com/poole/hyde
+  repo:              https://github.com/dannydenenberg/dannydenenberg.github.io
+
+
+# specifies what will be shown and the links assiciated with them on the NAVIGATION BAR
+pages_list:
+  About: '/about'
+  Archive: '/archive'
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
