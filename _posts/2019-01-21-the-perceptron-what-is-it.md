@@ -2,7 +2,8 @@
 layout: post
 title: The Perceptron: What is it?
 ---
-#The Perceptron: What is it?
+
+# The Perceptron: What is it?
 
 ![](https://cdn-images-1.medium.com/max/1600/1*uSdcH67Ex1L1emlGi8Me8Q.gif)Machine Learning — Just Kidding!!
 
