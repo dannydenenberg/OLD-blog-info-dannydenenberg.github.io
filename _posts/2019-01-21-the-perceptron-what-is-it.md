@@ -3,9 +3,6 @@ layout: post
 comments: true
 title: The Perceptron: What is it?
 ---
-* * *
-
-# The Perceptron: What is it?
 
 [![Go to the profile of Danny Denenberg](https://cdn-images-1.medium.com/fit/c/100/100/1*JJGBsKNvHEKDIui090Jk2A.jpeg)](https://medium.com/@dannydenenberg?source=post_header_lockup)[Danny Denenberg](https://medium.com/@dannydenenberg)<span class="followState js-followState" data-user-id="ca70e0a2522f"><button class="button button--smallest u-noUserSelect button--withChrome u-baseColor--buttonNormal button--withHover button--unblock js-unblockButton u-marginLeft10 u-xs-hide" data-action="sign-up-prompt" data-sign-in-action="toggle-block-user" data-requires-token="true" data-redirect="https://medium.com/@dannydenenberg/the-perceptron-what-is-it-5aadb3d34643" data-action-source="post_header_lockup"><span class="button-label  button-defaultState">Blocked</span><span class="button-label button-hoverState">Unblock</span></button><button class="button button--primary button--smallest button--dark u-noUserSelect button--withChrome u-accentColor--buttonDark button--follow js-followButton u-marginLeft10 u-xs-hide" data-action="sign-up-prompt" data-sign-in-action="toggle-subscribe-user" data-requires-token="true" data-redirect="https://medium.com/_/subscribe/user/ca70e0a2522f" data-action-source="post_header_lockup-ca70e0a2522f-------------------------follow_byline"><span class="button-label  button-defaultState js-buttonLabel">Follow</span><span class="button-label button-activeState">Following</span></button></span><time datetime="2019-01-22T03:12:44.929Z">Jan 21</time><span class="middotDivider u-fontSize12"></span><span class="readingTime" title="5 min read"></span>![](https://cdn-images-1.medium.com/max/1600/1*uSdcH67Ex1L1emlGi8Me8Q.gif)Machine Learning — Just Kidding!!
 
