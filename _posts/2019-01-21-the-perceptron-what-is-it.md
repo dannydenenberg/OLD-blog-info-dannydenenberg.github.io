@@ -1,3 +1,8 @@
+---
+layout: post
+comments: true
+title: The Perceptron: What is it?
+---
 * * *
 
 # The Perceptron: What is it?
