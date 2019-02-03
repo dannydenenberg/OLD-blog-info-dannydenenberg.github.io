@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Hello. I'm Daniel Denenberg.</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-02-02T21:15:03-06:00</updated>
+ <id>http://localhost:4000</id>
+ <author>
+   <name>Daniel Denenberg</name>
+   <email></email>
+ </author>
+
+ 
+ <entry>
+   <title>Starlite</title>
+   <link href="http://localhost:4000/development/design/2019/02/02/phantom-jekyll-template.html"/>
+   <updated>2019-02-02T15:15:00-06:00</updated>
+   <id>http://localhost:4000/development/design/2019/02/02/phantom-jekyll-template</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What is a Perceptron?</title>
+   <link href="http://localhost:4000/development/design/2019/01/20/rescue-themes.html"/>
+   <updated>2019-01-20T09:56:00-06:00</updated>
+   <id>http://localhost:4000/development/design/2019/01/20/rescue-themes</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Neural Network in Java</title>
+   <link href="http://localhost:4000/development/2018/12/29/weathercast.html"/>
+   <updated>2018-12-29T09:56:00-06:00</updated>
+   <id>http://localhost:4000/development/2018/12/29/weathercast</id>
+   <content type="html">
+</content>
+ </entry>
+ 
+
+</feed>

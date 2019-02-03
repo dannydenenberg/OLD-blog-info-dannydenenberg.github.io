@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hello. I'm Daniel Denenberg.</title>
+    <description>I'm an actor from Omaha, NE who happens to be interested with computers.</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Feb 2019 21:15:03 -0600</pubDate>
+    <lastBuildDate>Sat, 02 Feb 2019 21:15:03 -0600</lastBuildDate>
+    <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Starlite</title>
+        <description>
+</description>
+        <pubDate>Sat, 02 Feb 2019 15:15:00 -0600</pubDate>
+        <link>http://localhost:4000/development/design/2019/02/02/phantom-jekyll-template.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2019/02/02/phantom-jekyll-template.html</guid>
+        
+        <category>Python</category>
+        
+        <category>Voice-Commands</category>
+        
+        <category>AI</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>What is a Perceptron?</title>
+        <description>
+</description>
+        <pubDate>Sun, 20 Jan 2019 09:56:00 -0600</pubDate>
+        <link>http://localhost:4000/development/design/2019/01/20/rescue-themes.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/design/2019/01/20/rescue-themes.html</guid>
+        
+        <category>AI</category>
+        
+        <category>Machine-Learning</category>
+        
+        <category>Neural-Networks</category>
+        
+        
+        <category>development</category>
+        
+        <category>design</category>
+        
+      </item>
+    
+      <item>
+        <title>Neural Network in Java</title>
+        <description>
+</description>
+        <pubDate>Sat, 29 Dec 2018 09:56:00 -0600</pubDate>
+        <link>http://localhost:4000/development/2018/12/29/weathercast.html</link>
+        <guid isPermaLink="true">http://localhost:4000/development/2018/12/29/weathercast.html</guid>
+        
+        <category>Java</category>
+        
+        <category>Deep-Learning</category>
+        
+        <category>Matrix</category>
+        
+        
+        <category>development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
