@@ -1,0 +1,196 @@
+
+body {
+	background-color: #eee;
+	padding-top: 30px;
+}
+
+
+/***** PROJECTS *****/
+
+.resource-box {
+	border: 1px solid rgb(60, 59, 110);
+	text-decoration: none;
+	padding-top: 1em;
+	padding-left: 1.5em;
+	padding-right: 1.5em;
+	padding-bottom: 0.2em;
+	margin-top: 2em;
+	text-align: center;
+	color: #245;
+	background-color: #e0f0ff44;
+}
+
+.resource-box h4 {
+	font-weight: 400;
+	color: rgb(60, 59, 110);
+}
+
+.resource-box p {
+	min-height: 7.5em;
+	line-height: 150%;
+	font-weight: 400;
+}
+
+.resource-box img {
+	max-width: 80px;
+	height: auto;
+}
+
+
+.resource-box p {
+	color: rgba(60, 59, 110, 64);
+}
+
+/***** HEADER *****/
+
+header #title, header #subtitle, footer {
+	font-family: Georgia, serif;
+}
+
+header #title {
+	font-size: 6rem;
+	margin-bottom: 0;
+}
+
+header #title img.flag {
+	height: 6rem;
+	position: relative;
+	top: 1rem;
+	float: right;
+	margin-left: 50px;
+}
+
+header #subtitle {
+	font-size: 2.5rem;
+	color: #666;
+}
+
+@media (max-width: 800px) {
+	header #title {
+		font-size: 5rem;
+	}
+	header #title img.flag {
+		height: 5rem;
+		top: 0.55rem;
+	}
+	header #subtitle {
+		font-size: 2rem;
+	}
+}
+
+@media (max-width: 670px) {
+	header #subtitle {
+		display: none;
+	}
+}
+
+@media (max-width: 670px) {
+	header #title {
+		font-size: 4.5rem;
+	}
+	header #title img.flag {
+		height: 4.5rem;
+		top: 0.5rem;
+	}
+}
+
+@media (max-width: 450px) {
+	header #title {
+		font-size: 5rem;
+	}
+	header #title img.flag {
+		height: 5rem;
+		top: -5.25rem;
+		margin-left: 0;
+	}
+}
+
+
+/***** NAV BAR *****/
+
+nav {
+	margin-top: 25px;
+}
+
+nav hr {
+	border-color: #ccc;
+	margin-bottom: 15px;
+}
+
+nav ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+	display: inline-block;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 20px;
+}
+
+nav ul.u-pull-right li {
+	margin-right: 0px;
+	margin-left: 20px;
+}
+
+nav ul li a {
+	color: #3c3b6e;
+	text-decoration: none;
+	font-size: 2rem;
+}
+
+
+/***** BODY *****/
+
+main {
+	background-color: white;
+	padding: 40px;
+	margin-top: 5px;
+	margin-bottom: 20px;
+	border: 1px solid #ccc;
+}
+
+main h2, main h3, main h4 {
+	color: #b22234;
+}
+
+main p {
+	font-size: 1.65rem;
+}
+
+
+/***** FOOTER *****/
+
+footer {
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 30px;
+	text-align: center;
+	color: #888;
+}
+
+footer .flag-wrapper {
+	display: block;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+footer .flag-wrapper .stars {
+	color: #ccc;
+	padding-right: 10px;
+	padding-left: 10px;
+	position: relative;
+	top: -20px;
+}
+
+footer .flag-wrapper .star {
+	padding-right: 8px;
+	padding-left: 8px;
+}
+
+
+footer img.flag {
+	height: 50px;
+}
