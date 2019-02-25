@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Hola</title>
+  </head>
+  <body>
+    <div class="title-head">
+      <h1>Danny Denenberg's Home Page</h1>
+      <p>My email is <code>dannydenenberg@gmail.com</code> and my phone number is <code>+1 6507930157</code>.</p>
+    </div>
+
+    <div class="list">
+      <ul>
+        <li><a href="resume.pdf">Here</a> is a copy of my resume</li>
+        <li>A link to my <a href="http://denenberg.com/">family's home page</a></li>
+      </ul>
+    </div>
+
+
+    <div class="footer" style="position: fixed; bottom: 0; right: 0;">
+      <p align=right>
+        Copyright &copy; 2017--<span id="year"></span> Danny Denenberg</p>
+
+        <script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+</script>
+    </div>
+
+  </body>
+</html>
