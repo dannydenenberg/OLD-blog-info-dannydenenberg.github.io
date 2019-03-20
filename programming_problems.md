@@ -8,33 +8,26 @@ The last important point is how you express your thoughts as code. In the same w
 
 This is a bad example:
 
+```python
 // This function checks whether a number is even
-
 def f(x):
-
   // compute x modulo 2 and check whether it is zero
-
   if modulo(x,2) == 0:
-
     // the number is even
-
     return True
-
   else:
-
     // the number is odd
-
     return False
-
+```
 The exact same idea is much easier to understand if you write it like this:
 
+```python
 def is\_divisible(number, divisor):
-
   return modulo(number, divisor) == 0
-
+  
 def is\_even(number):
-
   return is\_divisible(number, 2)
+  ```
 
 Better naming and a better task breakdown make the comments obsolete. Revise your code just as you would revise an essay. Sketch, write, delete, reformulate, ask others what they think. Repeat until only the crispest possible expression of your idea remains. Revisit code you&#39;ve written a while ago to see whether you can improve it with things you&#39;ve learned since.
 
