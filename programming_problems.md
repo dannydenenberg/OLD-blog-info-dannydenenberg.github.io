@@ -22,11 +22,11 @@ def f(x):
 The exact same idea is much easier to understand if you write it like this:
 
 ```python
-def is\_divisible(number, divisor):
+def is_divisible(number, divisor):
   return modulo(number, divisor) == 0
   
-def is\_even(number):
-  return is\_divisible(number, 2)
+def is_even(number):
+  return is_divisible(number, 2)
   ```
 
 Better naming and a better task breakdown make the comments obsolete. Revise your code just as you would revise an essay. Sketch, write, delete, reformulate, ask others what they think. Repeat until only the crispest possible expression of your idea remains. Revisit code you&#39;ve written a while ago to see whether you can improve it with things you&#39;ve learned since.
