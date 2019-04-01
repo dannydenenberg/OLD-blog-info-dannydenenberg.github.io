@@ -6,7 +6,7 @@ comments: true
 permalink: what-the-heck-is-a-perceptron
 ---
 ### A quick article about what a perceptron is, how it works, and why it is important.
-![](https://cdn-images-1.medium.com/max/2400/1*DHljiPDqkwwjxpViZStrbA.jpeg)Mount Everest
+
 
 In short, the perceptron is an algorithm. A very simple one at that. 
 The algorithm it performs, in machine learning lingo, is known as _binary classification_.

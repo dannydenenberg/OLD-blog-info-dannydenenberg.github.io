@@ -6,7 +6,6 @@ comments: true
 permalink: derivative-of-sigmoid
 ---
 ### A comprehensive walk-through of taking the derivative of the sigmoid function.
-![](https://cdn-images-1.medium.com/max/2400/1*egfsE_j98-zoKaiZfdVQEQ.jpeg)Redwoods Forest
 
 > One of the most frequently used activation functions in machine learning, or more specifically, neural networks is the sigmoid function. In the backpropagation step in training a neural network, you have to find the derivative of the loss function with respect to each weight in the network. To do this, you have to find the derivative of your activation function. This article aims to clear up any confusion about finding the derivative of the sigmoid function.
 
