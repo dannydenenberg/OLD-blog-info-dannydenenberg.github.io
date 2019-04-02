@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Algorithms Written in Go
+title: ______ Written in Go
 comments: true
-permalink: what-the-heck-is-a-perceptron
+permalink: written-in-go
 ---
 
 A curated list of programs I am writing while learning Go 👍🌮🐑
