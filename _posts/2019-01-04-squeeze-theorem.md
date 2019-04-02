@@ -62,4 +62,4 @@ Now we can say that the limit of sin of theta over theta as theta approaches 0 *
 
 I loved learning about the squeeze theorem more than others just because of all of the steps involved in getting to the final solution. It was a giant puzzle and a journey! This is just one reason of many why math is **_fun and intuitive._**
 
-Please stay tuned for more and clap as your heart desires 👏
+Please stay tuned for more 👍

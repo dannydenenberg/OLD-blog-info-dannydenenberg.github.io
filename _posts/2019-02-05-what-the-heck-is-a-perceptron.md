@@ -2,7 +2,6 @@
 layout: post
 title: What the heck is a perceptron?
 comments: true
-#redirect_from: "/2019/01/04/squeeze-theorem/"
 permalink: what-the-heck-is-a-perceptron
 ---
 ### A quick article about what a perceptron is, how it works, and why it is important.
