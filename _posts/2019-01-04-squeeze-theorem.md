@@ -8,7 +8,6 @@ permalink: squeeze-theorem
 
 ### An intuitive explanation of an awesome theorem.
 
-
 While I was studying calculus, I came across this statement:
 
 ![](https://cdn-images-1.medium.com/max/1600/1*6M5iBz9leOQcSToSpYXuiw.png)

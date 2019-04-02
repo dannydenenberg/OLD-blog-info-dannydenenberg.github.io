@@ -1,0 +1,1 @@
+* If you want to change the syntax highlighting for code snippets in markdown, you have to remove the `@import url(fruity.css);` from public/css/syntax.css
